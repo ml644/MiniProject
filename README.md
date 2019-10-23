@@ -6,9 +6,6 @@
 
 
 ## **Sections**
-1. Explanation/Examples for usage use on Vi 
-1. Git commands and Terminology
-1. Tutorials and Extras
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+1. [Explanation/Examples for usage use on Vi]() 
+1. [Git commands and Terminology]()
+1. [Tutorials and Extras]()
