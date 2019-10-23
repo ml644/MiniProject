@@ -10,4 +10,6 @@
 1. [Git commands and Terminology](https://github.com/ml644/MiniProject/blob/master/Git%20commands%20and%20Terminology.md)
 1. [Tutorials and Extras](https://github.com/ml644/MiniProject/blob/master/Tutorials%20and%20Extras.md)
 
-
+## **Changelog**
+* Maximiliano Lozada - Readme.md, Explanation/Examples for usage use on Vi, Tutorials and Extras
+* Hyun June Lee - 
