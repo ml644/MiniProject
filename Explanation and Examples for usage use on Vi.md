@@ -20,7 +20,7 @@
 
 `~` - A shortcut in Linux used to indicate a user's home directory.
 
-`File paths in linux` - Use terminal to type in the command find `</path/to/folder/*file name*>`
+`File paths in linux` - Use terminal to type in the command `<find /path/to/folder/*file name*>`
 
 `Using the tab key to complete file paths ` - The tab key autocompletes what you've typed down. It's very good at keeping typos out.
 
