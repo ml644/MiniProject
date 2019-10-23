@@ -6,6 +6,6 @@
 
 
 ## **Sections**
-1. [Explanation/Examples for usage use on Vi]() 
+1. [Explanation/Examples for usage use on Vi](https://github.com/ml644/MiniProject/blob/master/Explanation%20and%20Examples%20for%20usage%20use%20on%20Vi) 
 1. [Git commands and Terminology]()
 1. [Tutorials and Extras]()
