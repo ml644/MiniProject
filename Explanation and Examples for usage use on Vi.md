@@ -6,21 +6,24 @@
 
 `mkdir` - This command allows you to create new directories in the file system. Just type mkdir and a name for the new directory.
 
-`cp` -
+`cp` - Used for copying files and directories.
 
 `pwd` - This command prints the current directory from the root.
 
 `mv` - This command allows you to move files and directories from the directory. Also, you can rename files with this.
 
-`rm` - 
+`rm` - Used to remove onjects such as directories and files.  
 
 `History` - This command shows a list of commands you have previously used on the command line.
 
 `Home Directory` - Is your current directory in use by default.
 
-`~` -
+`~` - A shortcut in Linux used to indicate a user's home directory.
+
 `File paths in linux` - 
+
 `Using the tab key to complete file paths ` -
+
 `Using up and down arrow for history` - 
 
 
