@@ -12,7 +12,7 @@
 
 ## **Changelog**
 * Maximiliano Lozada - Readme.md, Explanation/Examples for usage use on Vi, Tutorials and Extras
-* Hyun June Lee - 
+* Hyun June Lee - Git commands and Terminology.md
 
 
 
