@@ -13,3 +13,14 @@
 ## **Changelog**
 * Maximiliano Lozada - Readme.md, Explanation/Examples for usage use on Vi, Tutorials and Extras
 * Hyun June Lee - 
+
+
+
+
+
+
+
+
+
+
+<img src="https://github.com/ml644/MiniProject/blob/master/linux.png" width="48">
