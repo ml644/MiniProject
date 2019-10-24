@@ -27,4 +27,4 @@
 `Using up and down arrow for history` - This starts a search in the reverse to look through the bash history to find.
 
 
-![image](https://github.com/ml644/MiniProject/blob/master/linux.png =250)
+![image](https://github.com/ml644/MiniProject/blob/master/linux.png =250x)
